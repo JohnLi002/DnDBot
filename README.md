@@ -1,1 +1,1 @@
-##Goal: Create a discord bot that can help a DnD Player
+## Goal: A discord bot with varies commands to help an average DnD Player
