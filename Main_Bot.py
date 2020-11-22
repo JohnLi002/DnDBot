@@ -10,4 +10,4 @@ async def on_ready():
 
 
 
-client.run('NzgwMTU3ODY4MzM4ODM5NTcy.X7rAog.PXYKYtUUB_mIOmoppKLZlftzVSo')
+client.run('Inset Token Here')
