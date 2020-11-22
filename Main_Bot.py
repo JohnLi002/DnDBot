@@ -10,4 +10,4 @@ async def on_ready():
 
 
 
-client.run('Inset Token Here')
+client.run('Insert Token Here')
