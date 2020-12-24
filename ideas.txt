@@ -1,2 +1,4 @@
 Character Class:
-    - Stats:
+    - Stats: health, armor, strength, endurance, dexterity, wisdom, charisma, intellligence:
+    -
+    -
