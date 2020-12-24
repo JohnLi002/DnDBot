@@ -1,4 +1,14 @@
 Character Class:
+<<<<<<< HEAD
     - Stats: health, armor, strength, endurance, dexterity, wisdom, charisma, intellligence:
     -
     -
+=======
+    - Stats:
+
+    EXTRA stuff to implement:
+    - Spells:
+    - Perks:
+        =Active Abilities
+        =Passive Abilities
+>>>>>>> 2d85eff7f58b9a3f3479f47169f1b8745975d703
