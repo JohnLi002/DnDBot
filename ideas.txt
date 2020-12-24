@@ -1,4 +1,8 @@
 Character Class:
     - Stats:
+
+    EXTRA stuff to implement:
     - Spells:
     - Perks:
+        =Active Abilities
+        =Passive Abilities
