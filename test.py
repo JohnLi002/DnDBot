@@ -3,3 +3,5 @@ f = open("Saved Files/TestFile.txt", "w") #Should create a filed called Test/Fil
 
 for i in range(10): #writes into file
     f.write("line {num}\n".format(num = i))
+
+f.close() #good to always close files
