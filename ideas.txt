@@ -6,3 +6,9 @@ Character Class:
     - Perks:
         =Active Abilities
         =Passive Abilities
+
+
+Future implementation:
+    -Dictionary
+        -Key = name
+        -Value = Character Object
