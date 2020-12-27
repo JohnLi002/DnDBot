@@ -15,7 +15,7 @@ class MyClient(ds.Client):
         print('Message from {0.author}: {0.content}'.format(message))
 
 
-@commands.command()
+@bot.command()
 async def multiRoll(ctx, num, dice):
     rolls = []
     totalResult = 0
