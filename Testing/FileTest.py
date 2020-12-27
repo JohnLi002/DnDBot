@@ -1,5 +1,6 @@
 #Learning to create txt file so that character information can be saved when the bot is not on
-f = open("Saved Files/TestFile.txt", "w") #Should create a filed called Test/File.txt in the folder Saved Files
+specificFile = "Saved Files/TestFile2.txt"
+f = open(specificFile, "w") #Should create a filed called Test/File.txt in the folder Saved Files
 
 for i in range(3): #writes into file
     if i == 0:
@@ -10,7 +11,7 @@ for i in range(3): #writes into file
 f.close() #good to always close files
 
 #A test to figure out the best way to read a file
-f = open("Saved Files/TestFile.txt","r")
+f = open(specificFile,"r")
 count = 0 #0 = name, 1 = health, 2 = defence
 for line in f:
     if count == 0:
